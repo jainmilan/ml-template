@@ -12,13 +12,13 @@ __pycache__/
 .env
 .envrc
 
-# Data & Outputs
-data/raw/
-output/logs/
-output/mlflow/
-output/models/
-output/predictions/
-output/figures/
+# # Data & Outputs
+# data/raw/
+# output/logs/
+# output/mlflow/
+# output/models/
+# output/predictions/
+# output/figures/
 
 # Jupyter
 .ipynb_checkpoints/
