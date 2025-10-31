@@ -1,0 +1,7 @@
+{
+  "project_name": "my-ml-project",
+  "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
+  "author_name": "Milan Jain",
+  "description": "A new ML research project built from the ml-template.",
+  "python_version": "3.10"
+}
