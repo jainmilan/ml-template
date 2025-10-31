@@ -26,6 +26,3 @@ __pycache__/
 # Others
 *.bak
 *.tmp
-
-# Ignore .gitkeep files in working dir
-**/.gitkeep
